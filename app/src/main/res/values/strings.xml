@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I Love Zappos</string>
+    <string name="search_title">searchBar</string>
+    <string name = "search_hint">search for a product</string>
+    <string name="cart_title">My cart</string>
+    <string name="title">FULL DESCRIPTION</string>
+    <string name="intro">WELCOME TO MY ZAPPOS APP! \n\n\nThis app contains the following features: \n\n1. Search any item (Text/voice search) \n\n2. Add/Remove items from cart by clicking floating action button \n\n3. Press full description to view more info about the item \n\n\nHAVE FUN!</string>
+</resources>
